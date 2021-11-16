@@ -60,7 +60,9 @@ void main(List<String> args) {
 
   for (var i = 0; i < countries.length; i++) {
     attributes.add(
-      countries[i].trim() +
+      '\"' +
+          countries[i].trim() +
+          '\"' +
           ', ' +
           normalizedFullyVaccinated[i] +
           ', ' +
