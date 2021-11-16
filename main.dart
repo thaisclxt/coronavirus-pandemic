@@ -1,8 +1,17 @@
 import 'dart:io';
 
-void main(List<String> args) {
+void getPartlyVaccinated(
+    List<double> fullyVaccinated, List<double> vaccinated) {
   var partlyVaccinated = <String>[];
 
+  for (var i = 0; i < fullyVaccinated.length; i++) {
+    partlyVaccinated
+        .add((vaccinated[i] - fullyVaccinated[i]).toStringAsFixed(2));
+  }
+  File('partly_vaccinated.txt').openWrite().write(partlyVaccinated.join('\n'));
+}
+
+void main(List<String> args) {
   final fullyVaccinated = File('./people_fully_vaccinated.txt')
       .readAsLinesSync()
       .map((e) => double.parse(e))
@@ -13,9 +22,5 @@ void main(List<String> args) {
       .map((e) => double.parse(e))
       .toList();
 
-  for (var i = 0; i < fullyVaccinated.length; i++) {
-    partlyVaccinated
-        .add((vaccinated[i] - fullyVaccinated[i]).toStringAsFixed(2));
-  }
-  File('partly_vaccinated.txt').openWrite().write(partlyVaccinated.join('\n'));
+  getPartlyVaccinated(fullyVaccinated, vaccinated);
 }
