@@ -1,0 +1,187 @@
+Afghanistan                  
+Africa                       
+Albania                      
+Andorra                      
+Angola                       
+Antigua and Barbuda          
+Argentina                    
+Armenia                      
+Asia                         
+Australia                    
+Austria                      
+Azerbaijan                   
+Bahamas                      
+Bahrain                      
+Bangladesh                   
+Barbados                     
+Belarus                      
+Belgium                      
+Belize                       
+Benin                        
+Bhutan                       
+Bolivia                      
+Bosnia and Herzegovina       
+Botswana                     
+Brazil                       
+Brunei                       
+Bulgaria                     
+Cambodia                     
+Cameroon                     
+Canada                       
+Cape Verde                   
+Chad                         
+Chile                        
+Colombia                     
+Comoros                      
+Congo                        
+Costa Rica                   
+Croatia                      
+Cuba                         
+Cyprus                       
+Czechia                      
+Democratic Republic of Congo 
+Denmark                      
+Djibouti                     
+Dominica                     
+Dominican Republic           
+Ecuador                      
+Egypt                        
+El Salvador                  
+Equatorial Guinea            
+Estonia                      
+Eswatini                     
+Europe                       
+European Union               
+Fiji                         
+Finland                      
+France                       
+Gabon                        
+Gambia                       
+Georgia                      
+Germany                      
+Ghana                        
+Greece                       
+Grenada                      
+Guatemala                    
+Guinea                       
+Guinea-Bissau                
+Guyana                       
+Haiti                        
+High income                  
+Honduras                     
+Hong Kong                    
+Hungary                      
+Iceland                      
+India                        
+Indonesia                    
+Iran                         
+Iraq                         
+Ireland                      
+Israel                       
+Italy                        
+Jamaica                      
+Japan                        
+Jordan                       
+Kazakhstan                   
+Kenya                        
+Kosovo                       
+Kuwait                       
+Kyrgyzstan                   
+Laos                 
+Latvia               
+Lebanon              
+Lesotho              
+Liberia              
+Liechtenstein        
+Lithuania            
+Low income           
+Lower middle income  
+Luxembourg           
+Malawi               
+Malaysia             
+Maldives             
+Mali                 
+Malta                
+Mauritania           
+Mauritius            
+Mexico               
+Moldova                          
+Monaco                           
+Mongolia                         
+Montenegro                       
+Morocco                          
+Mozambique                       
+Myanmar                          
+Namibia                          
+Nepal                            
+Netherlands                      
+New Zealand                      
+Nicaragua                        
+Niger                            
+Nigeria                          
+North America                    
+North Macedonia                  
+Norway                           
+Oceania                          
+Oman                             
+Pakistan                         
+Palestine                        
+Panama                           
+Papua New Guinea                 
+Paraguay                         
+Peru                             
+Philippines                      
+Poland                           
+Portugal                         
+Qatar                            
+Romania                          
+Russia                           
+Rwanda                           
+Saint Kitts and Nevis            
+Saint Lucia                      
+Saint Vincent and the Grenadines 
+San Marino                       
+Sao Tome and Principe            
+Saudi Arabia                     
+Senegal                          
+Serbia                           
+Seychelles                       
+Sierra Leone                     
+Singapore                        
+Slovakia                         
+Slovenia                         
+Somalia                          
+South Africa                     
+South America                    
+South Korea                      
+South Sudan                      
+Spain                            
+Sri Lanka                        
+Sudan                            
+Suriname                         
+Sweden                           
+Switzerland                      
+Syria                            
+Taiwan                           
+Tajikistan                       
+Thailand                         
+Timor                            
+Togo                             
+Trinidad and Tobago              
+Tunisia                          
+Turkey                           
+Uganda                           
+Ukraine                          
+United Arab Emirates             
+United Kingdom                   
+United States                    
+Upper middle income              
+Uruguay                          
+Uzbekistan                       
+Vanuatu                          
+Venezuela                        
+Vietnam                          
+World                            
+Yemen                            
+Zambia                           
+Zimbabwe                         
